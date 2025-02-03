@@ -102,7 +102,7 @@ A comprehensive Tableau dashboard tracking candy distribution across the United 
 - Customer order patterns
 - Profit margin analysis
 
-🚀 **View the interactive dashboard here:** [here](https://public.tableau.com/app/profile/samuel.kouatcheu/viz/CandyDashboard_17385945216590/CandyDashboard)
+🚀 **View the interactive dashboard** [here](https://public.tableau.com/app/profile/samuel.kouatcheu/viz/CandyDashboard_17385945216590/CandyDashboard)
 
 
 
